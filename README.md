@@ -24,3 +24,9 @@ export const App ({author} = "Jabolo") => {
 
 }
 ```
+
+## License
+
+![](https://c.tenor.com/ObpKQHWJ2IYAAAAC/side-eyeing-chloe-chloe.gif)
+
+> This project is licensed under [MIT license](https://github.com/Jabolol/markdown/blob/gh-pages/LICENSE)
