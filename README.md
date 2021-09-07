@@ -3,7 +3,7 @@
 ```jsx
 import './main.scss'
 
-export const App ({author} = "Jabolo") => {
+export const App = ({author} = "Jabolo") => {
 
    return(
      <>
